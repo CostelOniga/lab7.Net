@@ -1,0 +1,9 @@
+c:\Users\Costel Oniga\Desktop\Laborator7\Laborator7.Dto\bin\Debug\netcoreapp2.1\Laborator7.Dto.deps.json
+c:\Users\Costel Oniga\Desktop\Laborator7\Laborator7.Dto\bin\Debug\netcoreapp2.1\Laborator7.Dto.dll
+c:\Users\Costel Oniga\Desktop\Laborator7\Laborator7.Dto\bin\Debug\netcoreapp2.1\Laborator7.Dto.pdb
+c:\Users\Costel Oniga\Desktop\Laborator7\Laborator7.Dto\obj\Debug\netcoreapp2.1\Laborator7.Dto.csprojAssemblyReference.cache
+c:\Users\Costel Oniga\Desktop\Laborator7\Laborator7.Dto\obj\Debug\netcoreapp2.1\Laborator7.Dto.csproj.CoreCompileInputs.cache
+c:\Users\Costel Oniga\Desktop\Laborator7\Laborator7.Dto\obj\Debug\netcoreapp2.1\Laborator7.Dto.AssemblyInfoInputs.cache
+c:\Users\Costel Oniga\Desktop\Laborator7\Laborator7.Dto\obj\Debug\netcoreapp2.1\Laborator7.Dto.AssemblyInfo.cs
+c:\Users\Costel Oniga\Desktop\Laborator7\Laborator7.Dto\obj\Debug\netcoreapp2.1\Laborator7.Dto.dll
+c:\Users\Costel Oniga\Desktop\Laborator7\Laborator7.Dto\obj\Debug\netcoreapp2.1\Laborator7.Dto.pdb
